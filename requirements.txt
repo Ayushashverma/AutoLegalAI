@@ -1,0 +1,13 @@
+streamlit
+transformers
+python-docx
+PyMuPDF
+pdfplumber
+pandas
+numpy
+torch
+openai
+langchain
+matplotlib
+seaborn
+python-dotenv
